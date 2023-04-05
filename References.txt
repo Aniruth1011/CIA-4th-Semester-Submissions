@@ -1,0 +1,3 @@
+The following links are the reference materials used to implement the following Optimizers
+1. https://towardsdatascience.com/artificial-neural-networks-optimization-using-genetic-algorithm-with-python-1fe8ed17733e
+2. https://pytorch.org/docs/stable/index.html
